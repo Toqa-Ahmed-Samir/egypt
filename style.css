@@ -1,0 +1,43 @@
+body background{
+    background-color: peachpuff;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+hi{
+    color: gray;
+    font-family: 'Times New Roman', Times, serif;
+}
+nav ul{
+    background-color: sandybrown;
+    border: 2px solid seashell;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-radius: 10px; 
+}
+nav ul li{
+    display:inline;
+    margin-right: 10px;
+    margin-left: 10px;
+    color:papayawhip;
+}
+nav ul li a{
+    text-decoration: non;
+    color: olive;
+}
+table,th,td{
+    border: 1px solid honeydew;
+}
+body background color{
+    background-color: peachpuff;
+    font-family: 'Times New Roman', Times, serif;
+}
+video-contener{
+    position: absolute;
+
+}
+#My-video{
+    position: fixed;
+    min-height: 100%;
+    min-width: 100%;
+    right: 0%;
+    bottom: 0%;
